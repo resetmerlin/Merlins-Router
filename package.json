@@ -1,0 +1,16 @@
+{
+  "name": "Merlins-Router",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/resetmerlin/Merlins-Router.git",
+  "author": "resetmerlin <resetmerlin@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.10.5"
+  }
+}
